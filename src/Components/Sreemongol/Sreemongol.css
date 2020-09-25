@@ -1,0 +1,17 @@
+.background{
+    height: 600px;
+    background: url(../../Images/Image/Rectangle\ 1.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.background h2,p{
+    padding: 40px;
+    color: black;
+    text-align: right;
+}
+.background .btn{
+    margin-left: 70%;
+}
